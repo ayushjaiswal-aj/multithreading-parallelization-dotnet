@@ -1,0 +1,15 @@
+D:\C_sharp_programing\multithreading and parallelization\TaskProgramming\bin\Debug\net6.0\TaskProgramming.exe
+D:\C_sharp_programing\multithreading and parallelization\TaskProgramming\bin\Debug\net6.0\TaskProgramming.deps.json
+D:\C_sharp_programing\multithreading and parallelization\TaskProgramming\bin\Debug\net6.0\TaskProgramming.runtimeconfig.json
+D:\C_sharp_programing\multithreading and parallelization\TaskProgramming\bin\Debug\net6.0\TaskProgramming.dll
+D:\C_sharp_programing\multithreading and parallelization\TaskProgramming\bin\Debug\net6.0\TaskProgramming.pdb
+D:\C_sharp_programing\multithreading and parallelization\TaskProgramming\obj\Debug\net6.0\TaskProgramming.csproj.AssemblyReference.cache
+D:\C_sharp_programing\multithreading and parallelization\TaskProgramming\obj\Debug\net6.0\TaskProgramming.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_sharp_programing\multithreading and parallelization\TaskProgramming\obj\Debug\net6.0\TaskProgramming.AssemblyInfoInputs.cache
+D:\C_sharp_programing\multithreading and parallelization\TaskProgramming\obj\Debug\net6.0\TaskProgramming.AssemblyInfo.cs
+D:\C_sharp_programing\multithreading and parallelization\TaskProgramming\obj\Debug\net6.0\TaskProgramming.csproj.CoreCompileInputs.cache
+D:\C_sharp_programing\multithreading and parallelization\TaskProgramming\obj\Debug\net6.0\TaskProgramming.dll
+D:\C_sharp_programing\multithreading and parallelization\TaskProgramming\obj\Debug\net6.0\refint\TaskProgramming.dll
+D:\C_sharp_programing\multithreading and parallelization\TaskProgramming\obj\Debug\net6.0\TaskProgramming.pdb
+D:\C_sharp_programing\multithreading and parallelization\TaskProgramming\obj\Debug\net6.0\TaskProgramming.genruntimeconfig.cache
+D:\C_sharp_programing\multithreading and parallelization\TaskProgramming\obj\Debug\net6.0\ref\TaskProgramming.dll
