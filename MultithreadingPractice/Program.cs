@@ -30,6 +30,11 @@ namespace MultithredingPractice
             t1.Start();
             t2.Start();
             t3.Start();
+
+            Thread displayNumbers = new Thread(() => { DisplayNumbersTill(100); });
+
+            displayNumbers.Start();
+
             Console.WriteLine("Main Thread Ended");
 
             Console.Read();
@@ -68,6 +73,15 @@ namespace MultithredingPractice
                 Console.WriteLine("Method3 :" + i);
             }
             Console.WriteLine("Method3 Ended using " + Thread.CurrentThread.Name);
+        }
+
+        static void DisplayNumbersTill(int num)
+        {
+            Console.WriteLine($"Displaying numbers from 0 to {num}");
+            for (int i = 0; i < num; i++)
+            {
+                Console.WriteLine($"Displaying number: {i}");
+            }
         }
     }
 }
